@@ -24,6 +24,23 @@ namespace MyGameAPI.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Match>>> GetMatches()
         {
+            // -------------- DELETE BEFORE RELEASE ----------------
+            // filling db with dummy data
+            if (_context.Matches.ToListAsync().Result.Count == 0)
+            {
+                Match addedMatch = new Match { Id = 1, Name = "Match1", NowPlaying = 5, MaxPlayers = 10 };
+                for (int i = 0; i < 10; i++)
+                {
+                    _context.Matches.Add(addedMatch);
+                    addedMatch.Id++;
+                    addedMatch.Name = "Match " + (i + 2).ToString();
+                    addedMatch.NowPlaying++;
+                    addedMatch.MaxPlayers++;
+                }
+                await _context.SaveChangesAsync();
+            }
+            // -----------------------------------------------------
+
             return await _context.Matches.ToListAsync();
         }
 

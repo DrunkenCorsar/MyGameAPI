@@ -11,7 +11,6 @@ C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\bin\Debug\net5.0\Microsoft.OpenApi
 C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\obj\Debug\net5.0\MyGameAPI.csproj.AssemblyReference.cache
 C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\obj\Debug\net5.0\MyGameAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\obj\Debug\net5.0\MyGameAPI.AssemblyInfoInputs.cache
 C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\obj\Debug\net5.0\MyGameAPI.AssemblyInfo.cs
