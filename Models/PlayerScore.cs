@@ -8,6 +8,7 @@ namespace MyGameAPI.Models
     public class PlayerScore
     {
         public long Id { get; set; }
-        public Dictionary<string, int> ScorePerGameMode { get; set; }
+        public string GameMode { get; set; }
+        public int Points { get; set; }
     }
 }

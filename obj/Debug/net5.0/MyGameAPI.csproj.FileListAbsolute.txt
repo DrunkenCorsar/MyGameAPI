@@ -133,3 +133,14 @@ C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\bin\Debug\net5.0\runtimes\win-arm\
 C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\obj\Debug\net5.0\MyGameAPI.csproj.AssemblyReference.cache
+C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\bin\Debug\net5.0\MyGameAPI.StaticWebAssets.xml
+C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Max\source\repos\MyGameAPI\MyGameAPI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll

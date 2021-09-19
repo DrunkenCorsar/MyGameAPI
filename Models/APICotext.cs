@@ -16,5 +16,6 @@ namespace MyGameAPI.Models
         public DbSet<Match> Matches { get; set; }
 
         public DbSet<Player> Players { get; set; }
+
     }
 }
